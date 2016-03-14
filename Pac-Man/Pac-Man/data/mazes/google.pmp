@@ -1,0 +1,393 @@
+# maze_name
+google
+# width
+640
+# height
+188
+# pallets
+data/objects/assets/pallet.pob
+303
+pp 15 169
+pp 26 169
+pp 37 169
+pp 48 169
+pp 59 169
+pp 70 169
+pp 81 169
+pp 92 169
+pp 103 169
+pp 114 169
+pp 125 169
+pp 136 169
+pp 147 169
+pp 158 169
+pp 169 169
+pp 180 169
+pp 191 169
+pp 202 169
+pp 213 169
+pp 224 169
+pp 235 169
+pp 246 169
+pp 257 169
+pp 268 169
+pp 279 169
+pp 290 169
+pp 301 169
+pp 312 169
+pp 323 169
+pp 334 169
+pp 345 169
+pp 356 169
+pp 367 169
+pp 378 169
+pp 389 169
+pp 400 169
+pp 411 169
+pp 422 169
+pp 433 169
+pp 444 169
+pp 455 169
+pp 466 169
+pp 477 169
+pp 488 169
+pp 499 169
+pp 510 169
+pp 521 169
+pp 532 169
+pp 543 169
+pp 554 169
+pp 565 169
+pp 576 169
+pp 587 169
+pp 598 169
+pp 609 169
+pp 620 169
+pp 15 158
+pp 59 158
+pp 169 158
+pp 345 158
+pp 444 158
+pp 488 158
+pp 554 158
+pp 620 158
+pp 59 147
+pp 169 147
+pp 345 147
+pp 444 147
+pp 488 147
+pp 554 147
+pp 15 136
+pp 26 136
+pp 37 136
+pp 48 136
+pp 59 136
+pp 169 136
+pp 180 136
+pp 191 136
+pp 202 136
+pp 213 136
+pp 224 136
+pp 235 136
+pp 246 136
+pp 257 136
+pp 268 136
+pp 279 136
+pp 290 136
+pp 301 136
+pp 312 136
+pp 323 136
+pp 334 136
+pp 345 136
+pp 356 136
+pp 367 136
+pp 378 136
+pp 389 136
+pp 400 136
+pp 411 136
+pp 422 136
+pp 433 136
+pp 444 136
+pp 488 136
+pp 499 136
+pp 510 136
+pp 521 136
+pp 532 136
+pp 543 136
+pp 554 136
+pp 565 136
+pp 576 136
+pp 587 136
+pp 598 136
+pp 609 136
+pp 620 136
+pp 59 125
+pp 103 125
+pp 114 125
+pp 125 125
+pp 136 125
+pp 147 125
+pp 158 125
+pp 169 125
+pp 257 125
+pp 345 125
+pp 444 125
+pp 488 125
+pp 576 125
+pp 59 114
+pp 103 114
+pp 169 114
+pp 257 114
+pp 345 114
+pp 444 114
+pp 488 114
+pp 576 114
+pp 59 103
+pp 103 103
+pp 169 103
+pp 257 103
+pp 345 103
+pp 444 103
+pp 488 103
+pp 576 103
+pp 59 92
+pp 103 92
+pp 114 92
+pp 169 92
+pp 257 92
+pp 345 92
+pp 444 92
+pp 488 92
+pp 576 92
+pp 59 81
+pp 169 81
+pp 257 81
+pp 345 81
+pp 444 81
+pp 488 81
+pp 532 81
+pp 543 81
+pp 554 81
+pp 565 81
+pp 576 81
+pp 59 70
+pp 169 70
+pp 257 70
+pp 345 70
+pp 356 70
+pp 367 70
+pp 378 70
+pp 389 70
+pp 400 70
+pp 411 70
+pp 422 70
+pp 433 70
+pp 444 70
+pp 488 70
+pp 576 70
+pp 59 59
+pp 169 59
+pp 257 59
+pp 345 59
+pp 444 59
+pp 488 59
+pp 576 59
+pp 15 48
+pp 26 48
+pp 37 48
+pp 48 48
+pp 59 48
+pp 70 48
+pp 81 48
+pp 92 48
+pp 103 48
+pp 114 48
+pp 125 48
+pp 136 48
+pp 147 48
+pp 158 48
+pp 169 48
+pp 180 48
+pp 191 48
+pp 202 48
+pp 213 48
+pp 224 48
+pp 235 48
+pp 246 48
+pp 257 48
+pp 268 48
+pp 279 48
+pp 290 48
+pp 301 48
+pp 312 48
+pp 323 48
+pp 334 48
+pp 345 48
+pp 444 48
+pp 455 48
+pp 466 48
+pp 477 48
+pp 488 48
+pp 499 48
+pp 510 48
+pp 521 48
+pp 532 48
+pp 543 48
+pp 554 48
+pp 565 48
+pp 576 48
+pp 587 48
+pp 598 48
+pp 609 48
+pp 620 48
+pp 15 37
+pp 70 37
+pp 191 37
+pp 224 37
+pp 345 37
+pp 356 37
+pp 367 37
+pp 378 37
+pp 411 37
+pp 422 37
+pp 433 37
+pp 444 37
+pp 554 37
+pp 620 37
+pp 15 26
+pp 70 26
+pp 191 26
+pp 224 26
+pp 345 26
+pp 378 26
+pp 411 26
+pp 444 26
+pp 554 26
+pp 620 26
+pp 26 15
+pp 37 15
+pp 48 15
+pp 59 15
+pp 70 15
+pp 81 15
+pp 92 15
+pp 103 15
+pp 114 15
+pp 125 15
+pp 136 15
+pp 147 15
+pp 158 15
+pp 169 15
+pp 180 15
+pp 191 15
+pp 224 15
+pp 235 15
+pp 246 15
+pp 257 15
+pp 268 15
+pp 279 15
+pp 290 15
+pp 301 15
+pp 312 15
+pp 323 15
+pp 334 15
+pp 345 15
+pp 378 15
+pp 411 15
+pp 444 15
+pp 455 15
+pp 466 15
+pp 477 15
+pp 488 15
+pp 499 15
+pp 510 15
+pp 521 15
+pp 532 15
+pp 543 15
+pp 554 15
+pp 565 15
+pp 576 15
+pp 587 15
+pp 598 15
+pp 609 15
+# power_pallets
+data/objects/assets/power_pallet.pob
+5
+pp 11 143
+pp 616 143
+pp 121 88
+pp 11 11
+pp 616 11
+# static_objects
+17
+1.
+data/objects/map_layouts/layout_1.pob
+pp 0 0
+2.
+data/objects/static_objects/ravni_1.pob
+pp 27 148
+3.
+data/objects/static_objects/ravni_2.pob
+pp 27 27
+4.
+data/objects/static_objects/ravni_3.pob
+pp 82 27
+5.
+data/objects/static_objects/ravni_3.pob
+pp 236 27
+6.
+data/objects/static_objects/ravni_4.pob
+pp 456 27
+7.
+data/objects/static_objects/ravni_5.pob
+pp 566 27
+8.
+data/objects/static_objects/ravni_5.pob
+pp 566 148
+9.
+data/objects/static_objects/ravni_5.pob
+pp 500 148
+10.
+data/objects/static_objects/ravni_6.pob
+pp 357 148
+11.
+data/objects/static_objects/ravni_7.pob
+pp 181 148
+12.
+data/objects/static_objects/ravni_T.pob
+pp 357 27
+13.
+data/objects/static_objects/letter_G.pob
+pp 71 60
+14.
+data/objects/static_objects/letter_o_red.pob
+pp 181 60
+15.
+data/objects/static_objects/letter_o_yellow.pob
+pp 269 60
+16.
+data/objects/static_objects/letter_l.pob
+pp 456 60
+17.
+data/objects/static_objects/letter_e.pob
+pp 500 60
+# objects_info
+6
+1.
+ghosts_home
+pp 357 82
+2.
+pacman
+pp 381 7
+3.
+ghosts_home_position_3
+pp 407 90
+4.
+ghosts_home_position_1
+pp 367 90
+5.
+ghosts_home_position_2
+pp 387 90
+6.
+ghosts_home_entrance
+pp 387 128

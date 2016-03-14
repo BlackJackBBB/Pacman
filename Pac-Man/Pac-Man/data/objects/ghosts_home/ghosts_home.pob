@@ -1,0 +1,28 @@
+# object_name
+ghosts_home
+# width
+79
+# height
+46
+# bounding_boxes
+4
+1.
+pp 0 0
+w 10
+h 46
+2.
+pp 0 0
+w 79
+h 8
+3.
+pp 70 0
+w 9
+h 46
+4.
+pp 0 38
+w 79
+h 8
+# animations_paths
+2
+data/objects/ghosts_home/animations/ghosts_home_closed.pan
+data/objects/ghosts_home/animations/ghosts_home_opened.pan

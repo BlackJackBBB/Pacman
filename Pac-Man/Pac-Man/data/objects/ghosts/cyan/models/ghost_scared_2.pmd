@@ -1,0 +1,19 @@
+# model_name
+ghost_scared_2
+# texture_path
+data/textures/ghosts/ghost_cyan.bmp
+# vertices
+4
+v -10 -10
+v 10 -10
+v 10 10
+v -10 10
+# texture_coords
+4
+vt 0.2574 0.0100
+vt 0.4952 0.0100
+vt 0.4952 0.2479
+vt 0.2574 0.2479
+# polygons
+1
+f 1 2 3 4

@@ -1,0 +1,15 @@
+# object_name
+letter_o_red
+# width
+68
+# height
+68
+# bounding_boxes
+1
+1.
+pp 0 0
+w 68
+h 68
+# animations_paths
+1
+data/objects/static_objects/animations/letter_o_red.pan

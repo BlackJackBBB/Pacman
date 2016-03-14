@@ -1,0 +1,15 @@
+# object_name
+pallet
+# width
+4
+# height
+4
+# bounding_boxes
+1
+1.
+pp 0 0
+w 4
+h 4
+# animations_paths
+1
+data/objects/assets/animations/pallet.pan

@@ -1,0 +1,19 @@
+# model_name
+ghost_down_2
+# texture_path
+data/textures/ghosts/ghost_pink.bmp
+# vertices
+4
+v -10 -10
+v 10 -10
+v 10 10
+v -10 10
+# texture_coords
+4
+vt 0.7521 0.5048
+vt 0.9900 0.5048
+vt 0.9900 0.7426
+vt 0.7521 0.7426
+# polygons
+1
+f 1 2 3 4

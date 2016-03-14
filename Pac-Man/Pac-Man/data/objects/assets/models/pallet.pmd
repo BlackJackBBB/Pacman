@@ -1,0 +1,19 @@
+# model_name
+pallet
+# texture_path
+data/textures/assets/assets_1.bmp
+# vertices
+4
+v 0 0
+v 0 4
+v 4 4
+v 4 0
+# texture_coords
+4
+vt 0.0100 0.7521
+vt 0.2479 0.7521
+vt 0.2479 0.9900
+vt 0.0100 0.9900
+# polygons
+1
+f 1 2 3 4

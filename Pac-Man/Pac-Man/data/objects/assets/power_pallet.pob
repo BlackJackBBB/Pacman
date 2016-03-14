@@ -1,0 +1,15 @@
+# object_name
+power_pallet
+# width
+12
+# height
+12
+# bounding_boxes
+1
+1.
+pp 0 0
+w 12
+h 12
+# animations_paths
+1
+data/objects/assets/animations/power_pallet.pan

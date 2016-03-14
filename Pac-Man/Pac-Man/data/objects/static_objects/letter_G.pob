@@ -1,0 +1,31 @@
+# object_name
+letter_G
+# width
+90
+# height
+101
+# bounding_boxes
+5
+1.
+pp 0 77
+w 90
+h 24
+2.
+pp 0 0
+w 24
+h 101
+3.
+pp 0 0
+w 90
+h 24
+4.
+pp 66 0
+w 24
+h 57
+5.
+pp 44 44
+w 44
+h 13 
+# animations_paths
+1
+data/objects/static_objects/animations/letter_G.pan

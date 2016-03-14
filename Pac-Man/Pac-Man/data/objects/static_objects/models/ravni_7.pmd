@@ -1,0 +1,19 @@
+# model_name
+ravni_7
+# texture_path
+data/textures/maps/map_1.bmp
+# vertices
+4
+v 0 0
+v 156 0
+v 156 13
+v 0 13
+# texture_coords
+4
+vt 0.2935 0.8917
+vt 0.5324 0.8917
+vt 0.5324 0.9116
+vt 0.2935 0.9116
+# polygons
+1
+f 1 2 3 4

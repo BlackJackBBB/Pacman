@@ -1,0 +1,16 @@
+# object_name
+pacman
+# width
+20
+# height
+20
+# bounding_boxes
+1
+1.
+pp 0 0
+w 20
+h 20
+# animations_paths
+2
+data/objects/pacman/animations/pacman_alive.pan
+data/objects/pacman/animations/pacman_dead.pan

@@ -1,0 +1,19 @@
+# model_name
+ghost_right_1
+# texture_path
+data/textures/ghosts/ghost_orange.bmp
+# vertices
+4
+v -10 -10
+v 10 -10
+v 10 10
+v -10 10
+# texture_coords
+4
+vt 0.5048 0.7521
+vt 0.7426 0.7521
+vt 0.7426 0.9900
+vt 0.5048 0.9900
+# polygons
+1
+f 1 2 3 4

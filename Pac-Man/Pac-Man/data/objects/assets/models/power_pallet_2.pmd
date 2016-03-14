@@ -1,0 +1,19 @@
+# model_name
+power_pallet_2
+# texture_path
+data/textures/assets/assets_1.bmp
+# vertices
+4
+v 0 0
+v 12 0
+v 12 12
+v 0 12
+# texture_coords
+4
+vt 0.5048 0.7521
+vt 0.7426 0.7521
+vt 0.7426 0.9900
+vt 0.5048 0.9900
+# polygons
+1
+f 1 2 3 4

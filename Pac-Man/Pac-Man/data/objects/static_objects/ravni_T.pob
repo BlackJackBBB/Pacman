@@ -1,0 +1,19 @@
+# object_name
+ravni_T
+# width
+79
+# height
+35
+# bounding_boxes
+2
+1.
+pp 0 22
+w 79
+h 13
+2.
+pp 33 0
+w 13
+h 35
+# animations_paths
+1
+data/objects/static_objects/animations/ravni_T.pan

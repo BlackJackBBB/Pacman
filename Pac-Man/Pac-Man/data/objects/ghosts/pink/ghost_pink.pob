@@ -1,0 +1,24 @@
+# object_name
+ghost_pink
+# width
+20
+# height
+20
+# bounding_boxes
+1
+1.
+pp 0 0
+w 20
+h 20
+# animations_paths
+10
+data/objects/ghosts/pink/animations/ghost_left.pan
+data/objects/ghosts/pink/animations/ghost_right.pan
+data/objects/ghosts/pink/animations/ghost_up.pan
+data/objects/ghosts/pink/animations/ghost_down.pan
+data/objects/ghosts/pink/animations/eye_left.pan
+data/objects/ghosts/pink/animations/eye_right.pan
+data/objects/ghosts/pink/animations/eye_up.pan
+data/objects/ghosts/pink/animations/eye_down.pan
+data/objects/ghosts/pink/animations/ghost_scared.pan
+data/objects/ghosts/pink/animations/ghost_special.pan

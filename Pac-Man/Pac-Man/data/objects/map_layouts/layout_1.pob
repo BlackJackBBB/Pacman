@@ -1,0 +1,63 @@
+# object_name
+layout_1
+# width
+640
+# height
+188
+# bounding_boxes
+13
+1.
+pp 0 181
+w 640
+h 7
+2.
+pp 0 121
+w 7
+h 67
+3.
+pp 0 104
+w 51
+h 24
+4.
+pp 0 60
+w 51
+h 24
+5.
+pp 0 0
+w 7
+h 67
+6.
+pp 0 0
+w 640
+h 7
+7.
+pp 203 0
+w 13
+h 40
+8.
+pp 357 0
+w 13
+h 29
+9.
+pp 423 0
+w 13
+h 29
+10.
+pp 632 0
+w 8
+h 67
+11.
+pp 588 60
+w 52
+h 24
+12.
+pp 588 104
+w 52
+h 24
+13.
+pp 632 121
+w 8
+h 67
+# animations_paths
+1
+data/objects/map_layouts/animations/layout_1.pan

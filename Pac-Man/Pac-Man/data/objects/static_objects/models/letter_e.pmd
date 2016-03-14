@@ -1,0 +1,19 @@
+# model_name
+letter_e
+# texture_path
+data/textures/maps/map_1.bmp
+# vertices
+4
+v 0 0
+v 68 0
+v 68 68
+v 0 68
+# texture_coords
+4
+vt 0.8590 0.7530
+vt 0.9662 0.7530
+vt 0.9662 0.8571
+vt 0.8590 0.8571
+# polygons
+1
+f 1 2 3 4

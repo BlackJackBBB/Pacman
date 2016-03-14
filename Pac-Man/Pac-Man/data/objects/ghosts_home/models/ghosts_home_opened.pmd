@@ -1,0 +1,19 @@
+# model_name
+ghosts_home_opened
+# texture_path
+data/textures/maps/map_1.bmp
+# vertices
+4
+v 0 0
+v 79 0
+v 79 46
+v 0 46
+# texture_coords
+4
+vt 0.6076 0.9035
+vt 0.7286 0.9035
+vt 0.7286 0.9740
+vt 0.6076 0.9740
+# polygons
+1
+f 1 2 3 4
